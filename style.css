@@ -3,4 +3,18 @@ canvas{
     position: fixed;
     z-index: -1;
     top: 0;
+    
+}
+
+#instructions {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    color: white;
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    z-index: 10;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+    border-radius: 5px;
 }
